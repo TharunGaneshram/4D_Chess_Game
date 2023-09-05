@@ -1,6 +1,6 @@
 # 4D Chess Game
 
-This is a simple 4-Dimensional Chess game implemented in C++ using object-oriented programming. The game is structured with a 4D chess board and chess piece classes to manage the game environment, pieces, and their movements.
+This is a simple 4-Dimensional Chess game implemented in both Java and C++ using object-oriented programming. The game is structured with a 4D chess board and chess piece classes to manage the game environment, pieces, and their movements.
 
 ## Features
 
@@ -14,7 +14,7 @@ This is a simple 4-Dimensional Chess game implemented in C++ using object-orient
 
 ## How to Play
 
-1. Compile the C++ code provided.
+1. Compile the Java or C++ code provided.
 2. Create a 4D chess board.
 3. Initialize the board to setup the pieces.
 4. Move pieces according to their rules.
